@@ -1,13 +1,15 @@
 ## ZENAN VERA SONG
 
 - Email: vsong3925@gmail.com
-- LinkedIn: linkedin.com/in/zenanverasong/ 
+- LinkedIn: linkedin.com/in/zenanverasong/
+- Tableau Public: profile/zenan.vera.song 
 
-Data Analyst, with a background in education, strives to analyze data and use data visualization to inform and enable decision makers by providing concrete and data-driven action plans. Completed George Washington University Data Analytics and Visualization Certificate Program. Highly proficient in Advanced Excel, Python, Flask, SQL, Javascript (D3.js), Plotly, Leaflet, Tableau, HTML, Bootstrap and CSS. Passionate about organizing and analyzing data, identifying patterns and trends to promote data-driven decision-making. Able to grasp new concepts quickly and break down abstract ideas into actionable and measurable steps. Adept at working independently as well as collaborating with teams across multiple functions. A reflective learner with critical thinking and problem-solving skills who takes the initiative and strives for continuous growth.
+Senior Data Analyst with over 5 years of experience in finance, payments/fraud, and customer success analysis. Proven expertise in building data pipelines, conducting advanced statistical analyses, and designing intuitive dashboards to enable data-informed decision-making. Certified by George Washington University and Google in Data Analytics and Visualization, with advanced proficiency in SQL, Python, Tableau, and Excel. Known for streamlining operations and delivering actionable insights that align with business objectives.
 
-### TECHNICAL SKILLS
-- Frontend: HTML, Plotly, Leaflet, CSS, Bootstrap, Tableau
-- Backend: Advanced Excel, Python, PostgreSQL, MySQL, SQLite, MongoDB, AWS, Salesforce, Flask, Javascript
+### SKILLS
+- Analytics Skills: SQL, Python, Tableau, Looker, Excel
+- Technical Tools: Snowflake, BigQuery, Jira, Confluence, Airflow, JupyterNotebook
+- Soft Skills: cross-functional collaboration, stakeholder communication, team leadership, presentation, prioritization
 
 ### FEATURED PROJECTS
 #### Interactive Web Dashboard
